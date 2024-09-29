@@ -61,9 +61,10 @@ _Niveau TSSR (Technicien supérieur systèmes et réseaux) en initiale à distan
 ---
 #### CENTRES D’INTÉRÊT
 ---
+* VTT 
+* Randonnée
 * Cinéma
-* Ballade
-* VTT
+* News hardware
 
 
 
