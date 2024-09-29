@@ -22,10 +22,17 @@ Après une première expérience informatique chez ECONOCOM, j'ai souhaité renf
 ---
 ##### Technicien support utilisateurs kiosque
 ##### ECONOCOM, Limours | 02/2022 – 05/2022
-* _Assurer le suivi des incidents (bureautique et outils de mobilité)._
-* _Assurer la gestion et l'administration du parc informatique._
-* _Assurer un service de proximité et support auprès des utilisateurs._
-* _Former et sensibiliser les utilisateurs aux outils informatiques._
+_Pour le compte client THALES :_
+* _Suivi des incidents (Composants PC, outils de bureautique et de mobilité)_
+* _Support de proximité et par messagerie Jabber (similaire à Skype)_
+* _Préparation et configuration des postes Windows 10 pour les nouveaux arrivants_
+* _Former et sensibiliser les utilisateurs aux outils informatiques_
+* _Création d’utilisateurs et suppression d’utilisateurs sur Active Directory_
+* _Commande de pièces détachées du fabricant Dell_
+* _Vérification du bon fonctionnement des salles visioconférence._
+* _Fourniture d’équipements (PC Portables, tours LINUX, écrans et accessoires)_
+
+Fourniture d’équipements (PC Portables, tours LINUX, écrans et accessoires)
 ##### Assistant chef de projet (stage)
 ##### LYCEE JULES SIEGFRIED, Le Havre | 12/2019 - 03/2020
 _Améliorer le recyclage des déchets :_
