@@ -41,7 +41,7 @@ Améliorerles informations administratives du Parc machines :
 ---
 #### FORMATIONS
 ---
-* ##### Wild Codes Chool, Paris 09/2024-02/2025
+* ##### Wild Code School, Paris 09/2024-02/2025
 _TSSR (Technicien supérieur systèmes et réseaux) à distance_
 * ##### GRETA, Hauts-de-Seine 10/2022-05/2023
 _Niveau TSSR (Technicien supérieur systèmes et réseaux) en initiale à distance_
