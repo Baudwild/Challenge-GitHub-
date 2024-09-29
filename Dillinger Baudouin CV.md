@@ -41,10 +41,13 @@ _Améliorer le recyclage des déchets pour l’obtention d’un label E3D de niv
 * _Sélection et installation des bannettes à papier dans les salles de classes et d’impression_
 ##### Assistant chef de projet (stage)
 ##### LYCEE JULES SIEGFRIED, Le Havre | 05/2019 - 07/2019
-Améliorerles informations administratives du Parc machines :
-* _Créer à l’aide d’Excel un carnet de maintenance, un plan de l’atelier avec les informations sur les machines._
-* _Effectuer un étiquetage des machines de l’atelier._
-* _Effectuer l'implantation d’une nouvelle machine à l’atelier._
+_Améliorer les informations administratives du parc machines pour le service RH :_
+* _Création d’une liste d’informations et d’incidents sur les machines de l’atelier sur Excel_
+* _Affectation des matricules et étiquetage des machines de l’atelier_
+* _Création d’un plan de l’atelier sur Excel_
+* _Création d’un carnet pour l’historique de maintenance pour chaque machine_
+* _Création d’un plan d'implantation avec la mise en place d’une nouvelle machine électro-érosion à l’atelier_
+
 ---
 #### FORMATIONS
 ---
