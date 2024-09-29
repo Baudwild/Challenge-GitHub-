@@ -27,7 +27,7 @@ Après une première expérience informatique chez ECONOCOM, j'ai souhaité renf
 * _Assurer un service de proximité et support auprès des utilisateurs._
 * _Former et sensibiliser les utilisateurs aux outils informatiques._
 ##### Assistant chef de projet (stage)
-##### LYCEE JULES SIEGFRIED, Le Havre | 12/2019 - 03/2019
+##### LYCEE JULES SIEGFRIED, Le Havre | 12/2019 - 03/2020
 _Améliorer le recyclage des déchets :_
 * _Rechercher une entreprise pour le recyclage des papiers et métaux._
 * _Modifier le chariot des femmes de ménage pour la récupération du papier._
