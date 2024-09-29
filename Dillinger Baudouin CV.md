@@ -31,14 +31,14 @@ _Pour le compte client THALES :_
 * _Commande de pièces détachées du fabricant Dell_
 * _Vérification du bon fonctionnement des salles visioconférence._
 * _Fourniture d’équipements (PC Portables, tours LINUX, écrans et accessoires)_
-
 Fourniture d’équipements (PC Portables, tours LINUX, écrans et accessoires)
 ##### Assistant chef de projet (stage)
 ##### LYCEE JULES SIEGFRIED, Le Havre | 12/2019 - 03/2020
-_Améliorer le recyclage des déchets :_
-* _Rechercher une entreprise pour le recyclage des papiers et métaux._
-* _Modifier le chariot des femmes de ménage pour la récupération du papier._
-* _Installer des bannettes à papier dans les classes sélectionnées._
+_Améliorer le recyclage des déchets pour l’obtention d’un label E3D de niveau 1 :_
+* _Recherche d’une entreprise spécialisée en recyclage de papiers et des copeaux métaux_
+* _Création d’une liste d’informations des salles de classe avec Excel_
+* _Modification des chariots des femmes de ménage pour la récupération du papier_
+* _Sélection et installation des bannettes à papier dans les salles de classes et d’impression_
 ##### Assistant chef de projet (stage)
 ##### LYCEE JULES SIEGFRIED, Le Havre | 05/2019 - 07/2019
 Améliorerles informations administratives du Parc machines :
