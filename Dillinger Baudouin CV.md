@@ -57,6 +57,8 @@ _TSSR (Technicien supérieur systèmes et réseaux) à distance_
 _Niveau TSSR (Technicien supérieur systèmes et réseaux) en initiale à distance_
 * ##### Lycée Jules Siegfried, Le Havre 2018-2020
  _Niveau BTS ATI (Assistant Technique Ingénieur)_
+* ##### Snaffix Formation, Pantin 11/2021-01/2022
+ _Formation technicien support proximité (POEI). Certification obtenue_
 
 ---
 #### CENTRES D’INTÉRÊT
