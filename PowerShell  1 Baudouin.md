@@ -1,12 +1,19 @@
 
 ## Commandes PowerShell------->Commandes Linux                   
 _Copy-Item --------------> cp_ 
+
 _Remove-Item ------------> rm_  
+
 _Set-Location -----------> cd_ 
+
 _New-Item ---------------> mkdir_ 
+
 _Get-Help ---------------> man_ 
+
 _Get-History ------------> history_ 
+
 _Get-Alias --------------> alias_ 
+
 _Get-Content ------------> cat_ 
 
 ## Les commandes PowerShell utilisées pour mes recherches.
